@@ -9,7 +9,7 @@ This 30-day plan is designed to build foundational IT skills across five core ar
 
 | Day | Topic                        | Focus Area                                  | Output File                                |
 |-----|------------------------------|----------------------------------------------|---------------------------------------------|
-| 1   | Intro to IT Support          | Roles, skills, career paths                  | `intro/it-support-overview.md`             |
+| 1   | Intro to IT Support          | Roles, skills, career paths                  | [it-support-overview.md](intro/it-support-overview.md)             |
 | 2   | How Computers Work           | Hardware, OS, software types                 | `hardware/hardware-notes.md`               |
 | 3   | Thinking Logically           | Binary, logic gates, abstraction             | `hardware/computer-logic.md`               |
 | 4   | Troubleshooting Methodology  | Step-by-step support process                 | `support/troubleshooting-framework.md`     |
