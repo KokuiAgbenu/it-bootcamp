@@ -1,7 +1,7 @@
 # Hardware Basics
 
 ## Overview
-This document covers the foundational components of computer hardware, including their functions and common troubleshooting tips.
+This document covers the foundational components of computer hardware, including their functions and common troubleshooting tips. The basis of this learning comes from the Google IT Support Professional Certificate, Course 1 (module 2).
 
 ---
 
