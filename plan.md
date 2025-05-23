@@ -1,66 +1,82 @@
-# 🛠️ 30-Day IT Bootcamp Plan
+# 🛠️ 30-Day IT Bootcamp Plan  
+_Aligned with the Google IT Support Professional Certificate_
 
-A hands-on, self-paced IT bootcamp designed to build practical skills in hardware, networking, operating systems, support tools, and security — with daily projects, ticket simulations, and reflection logs.
-
----
-
-## 📅 Week 1 – Core IT Foundations
-
-| Day | Topic                          | Focus                                        | Output File                                |
-|-----|--------------------------------|----------------------------------------------|---------------------------------------------|
-| 1   | Hardware Basics                | CPU, RAM, storage, peripherals               | [hardware-notes.md](hardware/hardware-notes.md)            |
-| 2   | Operating Systems Overview     | Windows vs Linux, functions, interfaces      | `operating-systems/os-notes.md`            |
-| 3   | OS Installation (Win/Linux VM) | VirtualBox/VMWare, ISOs, partitioning        | `operating-systems/os-installation.md`     |
-| 4   | Command Line (Linux/Windows)   | File nav, basic commands, scripting intro    | `cli/cli-cheatsheet.md`                    |
-| 5   | File Systems & Permissions     | NTFS vs ext4, permissions, access rights     | `cli/file-system-notes.md`                 |
-| 6   | Build + Troubleshoot Lab       | Practice install, peripheral issue mock fix  | `ticket-scenarios/ticket-001.md`           |
-| 7   | Weekly Reflection              | Recap, wins, blockers, screenshots           | `reflections/week-1-review.md`             |
+This 30-day plan is designed to build foundational IT skills across five core areas, mirroring the Google IT Support Professional Certificate. Each section includes notes, hands-on tickets, and reflections to build confidence and a working portfolio.
 
 ---
 
-## 🌐 Week 2 – Networking & Internet
+## 📘 Course 1: Technical Support Fundamentals (Days 1–6)
 
-| Day | Topic                          | Focus                                        | Output File                                |
-|-----|--------------------------------|----------------------------------------------|---------------------------------------------|
-| 8   | Networking Basics              | IP, MAC, routers, switches                   | `networking/network-basics.md`             |
-| 9   | Subnetting & IP Practice       | CIDR, masks, binary math                     | `networking/subnetting-practice.md`        |
-|10   | Wi-Fi & Troubleshooting        | SSIDs, drivers, IP conflicts                 | `ticket-scenarios/ticket-002.md`           |
-|11   | DNS & Internet Layers          | DNS lookup, OSI model, HTTP/HTTPS            | `networking/dns-osi.md`                    |
-|12   | Network Tools                  | `ping`, `tracert`, `ipconfig`, Wireshark     | `cli/networking-tools.md`                  |
-|13   | Mock Ticket: No Internet       | Troubleshoot end-user network issue          | `ticket-scenarios/ticket-003.md`           |
-|14   | Weekly Reflection              | What clicked, subnetting score, blockers     | `reflections/week-2-review.md`             |
-
----
-
-## 🧰 Week 3 – Software & Support Tools
-
-| Day | Topic                          | Focus                                        | Output File                                |
-|-----|--------------------------------|----------------------------------------------|---------------------------------------------|
-|15   | Software Installation & Logs   | Windows logs, MSI installs, patching         | `software/software-install.md`             |
-|16   | Remote Access Tools            | RDP, SSH, TeamViewer, screen sharing basics  | `software/remote-tools.md`                 |
-|17   | Active Directory Basics        | Users, groups, OUs, GPO intro                | `admin/active-directory-notes.md`          |
-|18   | Windows Admin Practice         | Create/delete user, reset password           | `ticket-scenarios/ticket-004.md`           |
-|19   | Documentation & Ticket Systems| Zendesk, Jira, ServiceNow basics             | `support-tools/documentation-notes.md`     |
-|20   | Mock Ticket: Printer Issue     | Troubleshoot common office printer issue     | `ticket-scenarios/ticket-005.md`           |
-|21   | Weekly Reflection              | Review AD concepts, tool usage               | `reflections/week-3-review.md`             |
+| Day | Topic                        | Focus Area                                  | Output File                                |
+|-----|------------------------------|----------------------------------------------|---------------------------------------------|
+| 1   | Intro to IT Support          | Roles, skills, career paths                  | `intro/it-support-overview.md`             |
+| 2   | How Computers Work           | Hardware, OS, software types                 | `hardware/hardware-notes.md`               |
+| 3   | Thinking Logically           | Binary, logic gates, abstraction             | `hardware/computer-logic.md`               |
+| 4   | Troubleshooting Methodology  | Step-by-step support process                 | `support/troubleshooting-framework.md`     |
+| 5   | Practice Ticket: Monitor     | Mock customer issue + resolution steps       | `tickets/ticket-001.md`                    |
+| 6   | Weekly Reflection            | Wrap-up and quiz review                      | `reflections/week-1-review.md`             |
 
 ---
 
-## 🔐 Week 4 – Security + Wrap-Up
+## 🌐 Course 2: Networking (Days 7–12)
 
-| Day | Topic                          | Focus                                        | Output File                                |
-|-----|--------------------------------|----------------------------------------------|---------------------------------------------|
-|22   | Security Fundamentals          | Threat types, social engineering             | `security/security-basics.md`              |
-|23   | Authentication & Permissions   | MFA, least privilege, UAC                    | `security/authentication-notes.md`         |
-|24   | Malware Removal Practice       | AV tools, safe mode, quarantine              | `ticket-scenarios/ticket-006.md`           |
-|25   | Backup & Recovery              | Imaging, restore points, tools               | `admin/backup-notes.md`                    |
-|26   | Resume & Interview Prep        | STAR method, top Q&A                         | `career/interview-notes.md`                |
-|27   | Portfolio Review               | Check all tickets, notes, completeness       | `README.md`, clean up repo                 |
-|28   | Final Ticket Challenge         | Combine multiple issues (VM + Network + AD)  | `ticket-scenarios/ticket-007.md`           |
-|29   | Mock Interview / Review        | Record or write up mock interview answers    | `career/mock-interview.md`                 |
-|30   | Final Reflection               | Lessons learned, favorite tools, next goals  | `reflections/week-4-review.md`             |
+| Day | Topic                        | Focus Area                                  | Output File                                |
+|-----|------------------------------|----------------------------------------------|---------------------------------------------|
+| 7   | Networking Basics            | Devices, IP, MAC, packets                    | `networking/network-basics.md`             |
+| 8   | Protocols & Ports            | TCP/IP, HTTP, SSH, FTP                       | `networking/protocols-and-ports.md`        |
+| 9   | OSI Model                    | Layers, flow of data                         | `networking/osi-model.md`                  |
+|10   | Subnetting & DNS             | CIDR, DNS records, IP ranges                 | `networking/subnetting.md`                 |
+|11   | Troubleshooting Tools        | ping, tracert, ipconfig, netstat             | `cli/networking-tools.md`                  |
+|12   | Practice Ticket: Internet    | Troubleshoot no connection issue             | `tickets/ticket-002.md`                    |
 
 ---
 
-## 📁 Folder Structure (Suggested)
+## 🖥️ Course 3: Operating Systems (Days 13–18)
+
+| Day | Topic                        | Focus Area                                  | Output File                                |
+|-----|------------------------------|----------------------------------------------|---------------------------------------------|
+|13   | OS Overview                  | Linux vs Windows, functions                  | `operating-systems/os-notes.md`            |
+|14   | OS Installation (VM)         | VirtualBox, ISOs, disk partitioning          | `operating-systems/os-installation.md`     |
+|15   | Command Line Basics          | Bash commands, navigation                    | `cli/cli-cheatsheet.md`                    |
+|16   | File Permissions & Users     | chmod, chown, ACLs                           | `cli/permissions-notes.md`                 |
+|17   | Practice Ticket: Access Denied | File access issue                           | `tickets/ticket-003.md`                    |
+|18   | Reflection + PowerShell      | Intro to PowerShell                          | `reflections/week-3-review.md`             |
+
+---
+
+## 🛠️ Course 4: System Administration (Days 19–24)
+
+| Day | Topic                        | Focus Area                                  | Output File                                |
+|-----|------------------------------|----------------------------------------------|---------------------------------------------|
+|19   | User Management              | Admin tools, add/remove users                | `admin/user-management.md`                 |
+|20   | Software Deployment          | MSI, scripts, install logs                   | `software/software-install.md`             |
+|21   | Device Management            | Printers, drivers, peripherals               | `tickets/ticket-004.md`                    |
+|22   | Logs & Monitoring            | Event Viewer, journald, Sysinternals         | `admin/logs-monitoring.md`                 |
+|23   | Backup & Restore             | Tools, schedules, file history               | `admin/backup-recovery.md`                 |
+|24   | Practice Ticket: Printer     | Printer offline troubleshooting              | `tickets/ticket-005.md`                    |
+
+---
+
+## 🔐 Course 5: IT Security (Days 25–30)
+
+| Day | Topic                        | Focus Area                                  | Output File                                |
+|-----|------------------------------|----------------------------------------------|---------------------------------------------|
+|25   | Security Principles          | CIA triad, threats, risk                     | `security/security-basics.md`              |
+|26   | Auth, MFA, Passwords         | Authentication methods, UAC                  | `security/authentication-notes.md`         |
+|27   | Malware & Antivirus          | Detection, removal, safe mode                | `tickets/ticket-006.md`                    |
+|28   | Firewalls, Ports, Patching   | Windows Firewall, patch mgmt                 | `security/firewall-patching.md`            |
+|29   | Final Ticket: Multi-Issue    | Complex ticket with multiple domains         | `tickets/ticket-007.md`                    |
+|30   | Final Reflection + Portfolio | Recap, showcase, career mapping              | `reflections/week-5-review.md`             |
+
+---
+
+## ✅ How to Use This Plan
+
+- Follow one topic per day — study, take notes, and complete the output file.
+- Use practice tickets to simulate real-world help desk scenarios.
+- Push all work to your GitHub repo using organized folders and clear commits.
+- Add README files in each folder to explain contents.
+- Update this `plan.md` as you go with ✅ checkmarks and links.
+
+---
 
