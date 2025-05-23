@@ -8,7 +8,7 @@ A hands-on, self-paced IT bootcamp designed to build practical skills in hardwar
 
 | Day | Topic                          | Focus                                        | Output File                                |
 |-----|--------------------------------|----------------------------------------------|---------------------------------------------|
-| 1   | Hardware Basics                | CPU, RAM, storage, peripherals               | `hardware/hardware-notes.md`               |
+| 1   | Hardware Basics                | CPU, RAM, storage, peripherals               | [hardware-notes.md](hardware/hardware-notes.md)            |
 | 2   | Operating Systems Overview     | Windows vs Linux, functions, interfaces      | `operating-systems/os-notes.md`            |
 | 3   | OS Installation (Win/Linux VM) | VirtualBox/VMWare, ISOs, partitioning        | `operating-systems/os-installation.md`     |
 | 4   | Command Line (Linux/Windows)   | File nav, basic commands, scripting intro    | `cli/cli-cheatsheet.md`                    |
