@@ -4,5 +4,5 @@ This folder contains introductory materials for the IT Bootcamp project. These f
 
 ## Contents
 
-- `it-support-overview.md` – Overview of IT support roles, responsibilities, and career progression.
+- [it-support-overview.md](it-support-overview.md) – Overview of IT support roles, responsibilities, and career progression.
 
