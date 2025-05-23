@@ -32,7 +32,7 @@ Welcome to my self-paced **IT Bootcamp**, where I'm sharpening my skills to land
 ## 📚 Learning Materials
 
 - [Google IT Support Professional Certificate](https://coursera.org/professional-certificates/google-it-support)
-- CompTIA A+ (Core 1) via Professor Messer 
+- CompTIA A+ (Core 1) via Professor Messer and IT Cert Doctor
 - Josh Madakor’s IT & Cybersecurity Courses (CourseCareers, Skool)
 - Practical Labs (VMs, simulations, ticket scenarios)
 
