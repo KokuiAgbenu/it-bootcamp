@@ -1,21 +1,86 @@
-# 30-Day IT Bootcamp 
+# 🧠 30-Day Personal IT Bootcamp
 
-Welcome to my personal IT Bootcamp! This is where I'm documenting my journey to become a skilled IT professional.
+Welcome to my self-paced **IT Bootcamp**, where I'm sharpening my skills to land a role in **IT Support** or **Help Desk**. This is a focused, hands-on journey aiming to reinforce my foundational tech knowledge and showcase my progression publicly.
 
-## 📅 Plan
-| Day | Topic                        | Status  |
-|-----|------------------------------|---------|
-| 1   | Computer Hardware            | ✅ Done |
-| 2   | OS Installation & Config     | ✅ Done |
-| 3   | Troubleshooting Basics       | 🔄 WIP  |
-| ... | ...                          | ...     |
+---
 
-## 📚 Study Material
-- Google IT Support Professional Certificate
-- CompTIA A+ Core 1
-- Josh Madakor’s IT Course
+## 🎯 Bootcamp Goals
 
-## 🔗 Repositories and Subfolders
-- [Hardware Projects](./hardware/)
-- [Networking Practice](./networking/)
-- [Ticket Simulations](./ticket-sims/)
+- Build confidence with IT fundamentals (hardware, OS, networking, security).
+- Prepare for technical interviews and IT support tasks.
+- Develop and document a portfolio of troubleshooting examples and small projects.
+- Practice using GitHub and Markdown as part of my daily workflow.
+
+---
+
+## 📅 Study Plan Overview
+
+| Day  | Topic                          | Status  |
+|------|--------------------------------|---------|
+| 1    | Hardware Basics                | ✅ Done |
+| 2    | Operating Systems & Interfaces | ✅ Done |
+| 3    | Command Line & File Systems    | 🔄 WIP  |
+| 4    | Networking Fundamentals        | ⏳      |
+| 5    | Internet & DNS Basics          | ⏳      |
+| ...  | ...                            | ...     |
+| 30   | Review, Reflect, and Resume    | ⏳      |
+
+> For the full day-by-day plan, see [Bootcamp Plan](./plan.md)
+
+---
+
+## 📚 Learning Materials
+
+- [Google IT Support Professional Certificate](https://coursera.org/professional-certificates/google-it-support)
+- CompTIA A+ (Core 1) via Professor Messer 
+- Josh Madakor’s IT & Cybersecurity Courses (CourseCareers, Skool)
+- Practical Labs (VMs, simulations, ticket scenarios)
+
+---
+
+## 🗂️ Repository Structure
+it-bootcamp/
+├── README.md # This file
+├── plan.md # Daily study plan
+├── hardware/
+│ └── hardware-notes.md
+├── operating-systems/
+│ └── os-installation.md
+├── networking/
+│ └── subnetting-practice.md
+├── ticket-scenarios/
+│ ├── ticket-001.md
+│ └── ticket-002.md
+└── reflections/
+└── week-1-review.md
+
+
+---
+
+## 📌 Highlighted Projects & Notes
+
+- ✅ [Subnets Made Simple](./networking/subnetting-practice.md) – Learn IPs the hands-on way.
+- ✅ [Mock IT Tickets](./ticket-scenarios/) – Practice troubleshooting user requests.
+- 🔄 [VM Lab Setup Guide](./operating-systems/os-installation.md) – Step-by-step install of Linux/Windows.
+
+---
+
+## 🚀 Progress & Reflections
+
+I'm updating this repo regularly as I work through each day's material and practical task. At the end of each week, I reflect on what I've learned and what I need to improve.
+
+- [Week 1 Review](./reflections/week-1-review.md) — Key wins, blockers, and next steps.
+
+---
+
+## 🤝 Connect
+
+If you're also learning or want to give feedback, feel free to open an issue or drop me a message!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kokui-agbenu/)
+- 📫 Email: kokui.agbenu@gmail.com
+
+---
+
+> "The best way to learn tech is to break it and fix it." 
+
