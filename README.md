@@ -15,15 +15,13 @@ Welcome to my self-paced **IT Bootcamp**, where I'm sharpening my skills to land
 
 ## 📅 Study Plan Overview
 
-| Day  | Topic                          | Status  |
+| Week  | Topic                          | Status  |
 |------|--------------------------------|---------|
 | 1    | Hardware Basics                | ✅ Done |
 | 2    | Operating Systems & Interfaces | ✅ Done |
 | 3    | Command Line & File Systems    | 🔄 WIP  |
-| 4    | Networking Fundamentals        | ⏳      |
-| 5    | Internet & DNS Basics          | ⏳      |
 | ...  | ...                            | ...     |
-| 30   | Review, Reflect, and Resume    | ⏳      |
+| -   | Review, Reflect, and Resume    | ⏳      |
 
 > For the full day-by-day plan, see [Bootcamp Plan](./plan.md)
 
