@@ -4,4 +4,4 @@ This section covers the methodology of IT troubleshooting and the step-by-step a
 
 ## Contents
 
-- `troubleshooting-framework.md` – A structured framework for diagnosing technical issues.
+- [troubleshooting-framework.md](troubleshooting-framework.md) – A structured framework for diagnosing technical issues.
