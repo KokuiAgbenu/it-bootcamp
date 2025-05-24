@@ -1,6 +1,6 @@
 # 🧠 30-Day Personal IT Bootcamp
 
-Welcome to my self-paced **IT Bootcamp**, where I'm sharpening my skills to land a role in **IT Support** or **Help Desk**. This is a focused, hands-on journey aiming to reinforce my foundational tech knowledge and showcase my progression publicly.
+Welcome to my self-paced **IT Bootcamp**, where I'm sharpening my skills to land a role in **IT Support** or **Help Desk**. The aim is to document my hands-on learning of the fundamentals and beyond of IT to get me job-ready as _quickly as possible_. I've already got my **CompTIA Security+** and **CompTIA A+** (core 1) certifications but now I want to get some experience with the tools and technologies I've learned about.
 
 ---
 
