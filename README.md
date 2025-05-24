@@ -17,8 +17,8 @@ Welcome to my self-paced **IT Bootcamp**, where I'm sharpening my skills to land
 
 | Week  | Topic                          | Status  |
 |------|--------------------------------|---------|
-| 1    | Hardware Basics                | ✅ Done |
-| 2    | Operating Systems & Interfaces | ✅ Done |
+| 1    | Hardware Basics                | 🔄 WIP |
+| 2    | Operating Systems & Interfaces | 🔄 WIP |
 | 3    | Command Line & File Systems    | 🔄 WIP  |
 | ...  | ...                            | ...     |
 | -   | Review, Reflect, and Resume    | ⏳      |
