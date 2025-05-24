@@ -36,25 +36,6 @@ Welcome to my self-paced **IT Bootcamp**, where I'm sharpening my skills to land
 
 ---
 
-## 🗂️ Repository Structure
-it-bootcamp/
-├── README.md # This file
-├── plan.md # Daily study plan
-├── hardware/
-│ └── hardware-notes.md
-├── operating-systems/
-│ └── os-installation.md
-├── networking/
-│ └── subnetting-practice.md
-├── ticket-scenarios/
-│ ├── ticket-001.md
-│ └── ticket-002.md
-└── reflections/
-└── week-1-review.md
-
-
----
-
 ## 📌 Highlighted Projects & Notes
 
 - ✅ [Subnets Made Simple](./networking/subnetting-practice.md) – Learn IPs the hands-on way.
@@ -65,7 +46,7 @@ it-bootcamp/
 
 ## 🚀 Progress & Reflections
 
-I'm updating this repo regularly as I work through each day's material and practical task. At the end of each week, I reflect on what I've learned and what I need to improve.
+I'm updating this repo regularly as I work through each day's material and practical task. At the end of each week, I will reflect on what went well, what went wrong, and how I can improve.
 
 - [Week 1 Review](./reflections/week-1-review.md) — Key wins, blockers, and next steps.
 
