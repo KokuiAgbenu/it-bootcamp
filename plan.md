@@ -1,7 +1,7 @@
 # 🛠️ 30-Day IT Bootcamp Plan  
 _Aligned with the Google IT Support Professional Certificate_
 
-This 30-day plan is designed to build foundational IT skills across five core areas, mirroring the Google IT Support Professional Certificate. Each section includes notes, hands-on tickets, and reflections to build confidence and a working portfolio.
+This 30-day plan is designed to build foundational IT skills across five core areas, mirroring the Google IT Support Professional Certificate. Each section includes notes, hands-on tickets, and reflections to build my working portfolio.
 
 ---
 
