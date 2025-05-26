@@ -1,7 +1,7 @@
 # Hardware Basics
 
 ## Overview
-This document covers the foundational components of computer hardware, including their functions and common troubleshooting tips. The basis of this learning comes from the Google IT Support Professional Certificate, Course 1 (module 2).
+This page covers the foundational components of computer hardware, including their functions and common troubleshooting issues. The basis of this learning comes from the Google IT Support Professional Certificate, Course 1 (module 2).
 
 ---
 
@@ -59,3 +59,4 @@ This document covers the foundational components of computer hardware, including
 ## Notes / References
 - [CompTIA A+ Hardware Objectives](https://www.comptia.org/certifications/a)
 - [PC Hardware Basics](https://www.crucial.com/articles/about-memory/what-is-ram)
+- [Google IT Support Certificate, Course 1, Module 2](https://www.coursera.org/professional-certificates/google-it-support)
