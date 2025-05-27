@@ -47,6 +47,17 @@ This page covers the foundational components of computer hardware, including the
 - Multimeter
 
 ---
+## Operating Systems
+- Split into two parts: kernel space and user space
+- BIOS/UEFI in charge of the boot process
+- Main operating systems; Windows, Linux, Mac OS
+
+---
+## Linux Commands
+- touch - create a file
+- echo $SHELL - confirms the type of shell
+- mkdir - create folder
+---
 
 ## Practice Lab Ideas
 - Open a PC and identify all hardware components.
@@ -56,7 +67,7 @@ This page covers the foundational components of computer hardware, including the
 
 ---
 
-## Notes / References
-- [CompTIA A+ Hardware Objectives](https://www.comptia.org/certifications/a)
+## Links / References
 - [PC Hardware Basics](https://www.crucial.com/articles/about-memory/what-is-ram)
 - [Google IT Support Certificate, Course 1, Module 2](https://www.coursera.org/professional-certificates/google-it-support)
+- [Which OS is best?](https://uk.pcmag.com/operating-systems/138523/windows-macos-chrome-os-or-linux-which-operating-system-is-best)
